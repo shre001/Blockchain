@@ -27,6 +27,7 @@ contract SimpleStorage {
         
     }
     
+    
     //view,pure
     //internal, external,public,private
      function retrieve() public view returns(uint256){
